@@ -48,7 +48,7 @@ There is [support server](https://discord.gg/MC5dJdE) for all my plugins includi
 ## Changelog
 
 ### 3.14
-- Use Discord's new builtin message links
+- Fix quote button again.
 
 ### 3.13
 - Fix loading issues
